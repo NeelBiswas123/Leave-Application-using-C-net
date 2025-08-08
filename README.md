@@ -21,7 +21,7 @@ A full-stack **Leave Management System** built with:
 ---
 ### Db logics
 create a db with name LeaveManagementDb ( otherwise if u want custom then create it and change the connectionstrings in applicationsettings.json file ( inside leavemanagementsystemweb api folder) 
--> after that create two tables  1. Leave Application ( LeaveId as Pk and int , EmployeeId as Fk and int, FromDate as datetime, Todate as datetime, Reason as nvarchar, status as nvarchar, appliedon as datetime.now)
+- -> after that create two tables  1. Leave Application ( LeaveId as Pk and int , EmployeeId as Fk and int, FromDate as datetime, Todate as datetime, Reason as nvarchar, status as nvarchar, appliedon as datetime.now)
                                   2. Employees ( EmployeeId as PK and int,,, Name, Email , Role as nvarchar) 
                                   or
           if u want to put custom tables name do it and chnage it with ur name in AppDbCOntext.cs ( in leavemanagementsystem / data folder)
@@ -34,8 +34,8 @@ create a db with name LeaveManagementDb ( otherwise if u want custom then create
 | Frontend      | React, React Bootstrap, Axios |
 | Backend       | ASP.NET WebAPI (Minimal APIs) |
 | Database      | SQL Server                   |
-| Auth          | JWT, Role-based authorization |
-| UI Features   | Responsive navbar, dark mode, toast notifications |
+| Auth          | JWT |
+| UI Features   | Responsive navbar, toast notifications |
 
 ---
 
