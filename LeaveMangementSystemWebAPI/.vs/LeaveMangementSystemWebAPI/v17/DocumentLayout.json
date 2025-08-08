@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|d:\\.net\\leavemanagementsystem\\leavemangementsystemwebapi\\leavemangementsystemwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|solutionrelative:leavemangementsystemwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|d:\\.net\\leavemanagementsystem\\leavemangementsystemwebapi\\leavemangementsystemwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|solutionrelative:leavemangementsystemwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|d:\\.net\\leavemanagementsystem\\leavemangementsystemwebapi\\leavemangementsystemwebapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|solutionrelative:leavemangementsystemwebapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|d:\\.net\\leavemanagementsystem\\leavemangementsystemwebapi\\leavemangementsystemwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|solutionrelative:leavemangementsystemwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|d:\\.net\\leavemanagementsystem\\leavemangementsystemwebapi\\leavemangementsystemwebapi\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|solutionrelative:leavemangementsystemwebapi\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|d:\\.net\\leavemanagementsystem\\leavemangementsystemwebapi\\leavemangementsystemwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|solutionrelative:leavemangementsystemwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|d:\\.net\\leavemanagementsystem\\leavemangementsystemwebapi\\leavemangementsystemwebapi\\models\\leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|solutionrelative:leavemangementsystemwebapi\\models\\leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|d:\\.net\\leavemanagementsystem\\leavemangementsystemwebapi\\leavemangementsystemwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|solutionrelative:leavemangementsystemwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|d:\\.net\\leavemanagementsystem\\leavemangementsystemwebapi\\leavemangementsystemwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B8ABA9-BE41-4540-A0BC-A87389A1E1AA}|LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI.csproj|solutionrelative:leavemangementsystemwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LeaveMangementSystemWebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LeaveMangementSystemWebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:01:41.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LeaveMangementSystemWebAPI\\Program.cs",
+              "ToolTip": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Program.cs",
+              "RelativeToolTip": "LeaveMangementSystemWebAPI\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwGQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:18:10.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "LeaveMangementSystemWebAPI\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Models\\LoginModel.cs",
+              "RelativeToolTip": "LeaveMangementSystemWebAPI\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:04:17.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LeaveMangementSystemWebAPI\\appsettings.json",
+              "ToolTip": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\appsettings.json",
+              "RelativeToolTip": "LeaveMangementSystemWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T15:13:27.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveController.cs",
+              "DocumentMoniker": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Controllers\\LeaveController.cs",
+              "RelativeDocumentMoniker": "LeaveMangementSystemWebAPI\\Controllers\\LeaveController.cs",
+              "ToolTip": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Controllers\\LeaveController.cs",
+              "RelativeToolTip": "LeaveMangementSystemWebAPI\\Controllers\\LeaveController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:54:00.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LeaveMangementSystemWebAPI\\Models\\Employee.cs",
+              "ToolTip": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "LeaveMangementSystemWebAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:11:33.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveApplication.cs",
+              "DocumentMoniker": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Models\\LeaveApplication.cs",
+              "RelativeDocumentMoniker": "LeaveMangementSystemWebAPI\\Models\\LeaveApplication.cs",
+              "ToolTip": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Models\\LeaveApplication.cs",
+              "RelativeToolTip": "LeaveMangementSystemWebAPI\\Models\\LeaveApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:12:12.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "LeaveMangementSystemWebAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "LeaveMangementSystemWebAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:32:28.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LeaveMangementSystemWebAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\.net\\LeaveManagementSystem\\LeaveMangementSystemWebAPI\\LeaveMangementSystemWebAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LeaveMangementSystemWebAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:14:29.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
